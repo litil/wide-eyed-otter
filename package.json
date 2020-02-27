@@ -1,7 +1,7 @@
 {
   "name": "wide-eye-otter",
   "private": true,
-  "description": "My very personal image-heavy photography portfolio",
+  "description": "My very personal image-heavy photography portfolio, powered by GatsbyJS.",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {

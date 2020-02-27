@@ -1,5 +1,13 @@
 ![](https://i.imgur.com/TlwEgUo.png)
 
+# To-do
+[ ] Add more personal projects
+[ ] Remove template projects
+[ ] Find great colors for each project
+[ ] Update the readme
+[ ] Remove the Instagram section (or parametrize it)
+[ ] Deploy it to Github pages 
+
 # Gatsby Starter Portfolio: Jodie
 
 A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience are designers and photographers.
