@@ -1,9 +1,12 @@
-![](./static/logos/logo.png)
+# Wide Eyed Otter
+
+<p align="center">
+  <img src="./static/logos/logo.png">
+</p>
 
 ## To-do
-[ ] Update the readme
-[ ] Remove the Instagram section (or parametrize it)
-[ ] Deploy it to Github pages 
+* [ ] Remove the Instagram section (or parametrize it)
+* [ ] Deploy it to Github pages 
 
     
 ## Getting Started
@@ -22,11 +25,15 @@ npm run develop
 
 ### Deploying a new version
 
-This website is hosted on Github pages. To deploy a new version, simply run:
+This website is hosted on Github pages. You can access it here: litil.github.io/wide-eyed-otter/
+
+To deploy a new version, simply run:
 
 ```
 yarn deploy
 ```
+
+:clock1: Be patient, the deployment job could take some time (about 3 minutes the first time).
 
 ### Configuring the Instagram source plugin
 
