@@ -20,6 +20,14 @@ cd wide-eyed-otter
 npm run develop
 ```
 
+### Deploying a new version
+
+This website is hosted on Github pages. To deploy a new version, simply run:
+
+```
+yarn deploy
+```
+
 ### Configuring the Instagram source plugin
 
 1. You need to have a Facebook page (I know... :/)
