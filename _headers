@@ -1,0 +1,94 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-1d9b46fa5d1abe87c6c2.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.4d56d4badc9df2756c01.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-4d6534d6245b0a41f0e7.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-cd8314d9ed269f68fc55.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-project-tsx-cd8be6c8b4e24d3faac9.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-about-tsx-f4ba97873950fe395cce.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-tsx-293cd3152cefb2fd2ac7.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-instagram-tsx-d99bd5ca4d444a7e1234.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-projects-tsx-b8289e49d02c18e8e4a5.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-eec2b17a784f2ff89189.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-ea825e720a38794dbcf6.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/wide-eyed-otter/offline-plugin-app-shell-fallback/
+  Link: </wide-eyed-otter/webpack-runtime-eec2b17a784f2ff89189.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/app-ea825e720a38794dbcf6.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/component---node-modules-gatsby-plugin-offline-app-shell-js-1d9b46fa5d1abe87c6c2.js>; rel=preload; as=script
+/wide-eyed-otter/ironlady
+  Link: </wide-eyed-otter/webpack-runtime-eec2b17a784f2ff89189.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/app-ea825e720a38794dbcf6.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/styles-4d6534d6245b0a41f0e7.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/component---src-templates-project-tsx-cd8be6c8b4e24d3faac9.js>; rel=preload; as=script
+/wide-eyed-otter/iceland-dramatic-landscapes
+  Link: </wide-eyed-otter/webpack-runtime-eec2b17a784f2ff89189.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/app-ea825e720a38794dbcf6.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/styles-4d6534d6245b0a41f0e7.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/component---src-templates-project-tsx-cd8be6c8b4e24d3faac9.js>; rel=preload; as=script
+/wide-eyed-otter/mexico-food-sun-culture
+  Link: </wide-eyed-otter/webpack-runtime-eec2b17a784f2ff89189.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/app-ea825e720a38794dbcf6.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/styles-4d6534d6245b0a41f0e7.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/component---src-templates-project-tsx-cd8be6c8b4e24d3faac9.js>; rel=preload; as=script
+/wide-eyed-otter/indonesia-taste-of-asia
+  Link: </wide-eyed-otter/webpack-runtime-eec2b17a784f2ff89189.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/app-ea825e720a38794dbcf6.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/styles-4d6534d6245b0a41f0e7.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/component---src-templates-project-tsx-cd8be6c8b4e24d3faac9.js>; rel=preload; as=script
+/wide-eyed-otter/about/
+  Link: </wide-eyed-otter/webpack-runtime-eec2b17a784f2ff89189.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/app-ea825e720a38794dbcf6.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/styles-4d6534d6245b0a41f0e7.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/component---src-pages-about-tsx-f4ba97873950fe395cce.js>; rel=preload; as=script
+/wide-eyed-otter/
+  Link: </wide-eyed-otter/webpack-runtime-eec2b17a784f2ff89189.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/app-ea825e720a38794dbcf6.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/styles-4d6534d6245b0a41f0e7.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/component---src-pages-index-tsx-293cd3152cefb2fd2ac7.js>; rel=preload; as=script
+/wide-eyed-otter/instagram/
+  Link: </wide-eyed-otter/webpack-runtime-eec2b17a784f2ff89189.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/app-ea825e720a38794dbcf6.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/styles-4d6534d6245b0a41f0e7.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/component---src-pages-instagram-tsx-d99bd5ca4d444a7e1234.js>; rel=preload; as=script
+/wide-eyed-otter/projects/
+  Link: </wide-eyed-otter/webpack-runtime-eec2b17a784f2ff89189.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/app-ea825e720a38794dbcf6.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/styles-4d6534d6245b0a41f0e7.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/commons-cd8314d9ed269f68fc55.js>; rel=preload; as=script
+  Link: </wide-eyed-otter/component---src-pages-projects-tsx-b8289e49d02c18e8e4a5.js>; rel=preload; as=script
