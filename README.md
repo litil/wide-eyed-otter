@@ -1,4 +1,4 @@
-![](https://i.imgur.com/TlwEgUo.png)
+![](./static/logos/logo.png)
 
 ## To-do
 [ ] Update the readme
